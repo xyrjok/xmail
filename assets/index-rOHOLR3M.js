@@ -49629,7 +49629,7 @@ components: ${q_(i)}
       return Yl.value = t, t;
     }
   };
-  fG = "https://temp-email-api.xxx.xxx";
+  fG = "https://mail.hltx.dpdns.org";
   ({ loading: Iy, auth: hG, jwt: au, settings: Fy, openSettings: Co, userOpenSettings: My, userSettings: Ya, announcement: Yf, showAuth: K_, adminAuth: pG, showAdminAuth: mG, userJwt: Mu } = Qt());
   gG = Cn.create({
     baseURL: fG,
